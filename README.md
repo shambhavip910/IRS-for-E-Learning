@@ -71,7 +71,3 @@ A Streamlit web app is included to interact with the recommendation system throu
 
 - `cosine_similarity.pkl` and `user_similarity.pkl` are intentionally excluded from version control (see `.gitignore`) as they are large, regeneratable artifacts rather than source files.
 - Data files (`research_*.csv`) are used for experimentation; `clean_courses.csv` is the processed dataset used by the app.
-
-## Author
-
-Shambhavi
